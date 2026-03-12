@@ -1,0 +1,10 @@
+themes/
+dracula.venv/
+logs/
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+themes/
+dracula.venv/
+logs/
