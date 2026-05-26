@@ -1,0 +1,272 @@
+{
+  "hostname": "KROO-LTVGWGTV4K",
+  "last_run": "2026-05-26T17:15:56.044671+00:00",
+  "apps": [
+    {
+      "repo_name": "gitk",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/gitk",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044249+00:00"
+    },
+    {
+      "repo_name": "mattermost",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/mattermost",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044398+00:00"
+    },
+    {
+      "repo_name": "google-chrome",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/google-chrome",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044408+00:00"
+    },
+    {
+      "repo_name": "vim",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/vim",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044412+00:00"
+    },
+    {
+      "repo_name": "zsh",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/zsh",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044416+00:00"
+    },
+    {
+      "repo_name": "vivaldi",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/vivaldi",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044419+00:00"
+    },
+    {
+      "repo_name": "kakoune",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/kakoune",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044421+00:00"
+    },
+    {
+      "repo_name": "slack",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/slack",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044424+00:00"
+    },
+    {
+      "repo_name": "qutebrowser",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/qutebrowser",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044426+00:00"
+    },
+    {
+      "repo_name": "vimium",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/vimium",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044429+00:00"
+    },
+    {
+      "repo_name": "spacemacs",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/spacemacs",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044434+00:00"
+    },
+    {
+      "repo_name": "tower",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/tower",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044436+00:00"
+    },
+    {
+      "repo_name": "zsh-syntax-highlighting",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/zsh-syntax-highlighting",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044441+00:00"
+    },
+    {
+      "repo_name": "thunderbird",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/thunderbird",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044445+00:00"
+    },
+    {
+      "repo_name": "firefox",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/firefox",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044448+00:00"
+    },
+    {
+      "repo_name": "renoise",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/renoise",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044451+00:00"
+    },
+    {
+      "repo_name": "ripcord",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/ripcord",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044458+00:00"
+    },
+    {
+      "repo_name": "powerlevel10k",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/powerlevel10k",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044461+00:00"
+    },
+    {
+      "repo_name": "funkwhale",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/funkwhale",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044465+00:00"
+    },
+    {
+      "repo_name": "github",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/github",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044468+00:00"
+    },
+    {
+      "repo_name": "gitlab",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/gitlab",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044470+00:00"
+    },
+    {
+      "repo_name": "wezterm",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/wezterm",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044474+00:00"
+    },
+    {
+      "repo_name": "tig",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/tig",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044476+00:00"
+    },
+    {
+      "repo_name": "youtube-music-desktop",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/youtube-music-desktop",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044481+00:00"
+    },
+    {
+      "repo_name": "git",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/git",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044483+00:00"
+    },
+    {
+      "repo_name": "tridactyl",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/tridactyl",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044486+00:00"
+    },
+    {
+      "repo_name": "vis",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/vis",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044490+00:00"
+    },
+    {
+      "repo_name": "vital",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/vital",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044493+00:00"
+    },
+    {
+      "repo_name": "noir",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/noir",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044495+00:00"
+    },
+    {
+      "repo_name": "bandcamp",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/bandcamp",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044500+00:00"
+    },
+    {
+      "repo_name": "gitkraken",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/gitkraken",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044503+00:00"
+    },
+    {
+      "repo_name": "microsoft-edge",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/microsoft-edge",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044505+00:00"
+    },
+    {
+      "repo_name": "smartgit",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/smartgit",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044508+00:00"
+    },
+    {
+      "repo_name": "gitroll",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/gitroll",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044510+00:00"
+    },
+    {
+      "repo_name": "m8",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/m8",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044513+00:00"
+    },
+    {
+      "repo_name": "lazygit",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/lazygit",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044515+00:00"
+    },
+    {
+      "repo_name": "subsonic",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/subsonic",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044517+00:00"
+    },
+    {
+      "repo_name": "gemini",
+      "status": "cloned",
+      "path": "/Users/adam.mcgreggor/projects/dracula/themes/gemini",
+      "manual_steps": [],
+      "last_updated": "2026-05-26T17:15:56.044520+00:00"
+    }
+  ]
+}
